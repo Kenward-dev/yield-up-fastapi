@@ -4,10 +4,10 @@
 
 ## Type of Change
 
-- [ ] Bug fix  
-- [ ] New feature  
-- [ ] Refactoring  
-- [ ] Documentation update  
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Refactoring
+- [ ] Documentation update
 - [ ] Other (please explain):
 
 If you selected "Other", please describe:
@@ -39,4 +39,3 @@ Examples:
 ## Screenshots (in Postman if applicable)
 
 <!-- Paste here or attach screenshots for UI-related changes or tests in Postman.-->
-
