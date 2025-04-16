@@ -12,7 +12,7 @@ This project is under active development. This README will be updated regularly 
 
 ## Features (Planned)
 
-- User authentication and authorization
+- Admin authentication and authorization
 - Beneficiary management
 - Donor management
 - Program and event coordination
@@ -64,8 +64,8 @@ Guidelines for contributing to this project will be added soon.
 ## Contact
 
 For questions about this project, please contact:
-  
-- [sheyivetdoc@gmail.com](mailto:sheyivetdoc@gmail.com)  
-- [codewithkenward@gmail.com](mailto:codewithkenward@gmail.com)  
+
+- [sheyivetdoc@gmail.com](mailto:sheyivetdoc@gmail.com)
+- [codewithkenward@gmail.com](mailto:codewithkenward@gmail.com)
 - [support@yieldupdev.org](mailto:support@yieldupdev.org)
 - [yieldupdevinitiative@gmail.com](mailto:yieldupdevinitiative@gmail.com)
