@@ -41,16 +41,16 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Check formatting with Black
-        run: black --check .
+        run: black --check --exclude .venv .
 
       - name: Sort imports with isort
-        run: isort --check --profile black .
+        run: isort --check --profile black --skip .venv .
 
       - name: Lint with flake8
-        run: flake8 .
+        run: flake8 --exclude .venv .
 
       - name: Type check with mypy
-        run: mypy .
+        run: mypy --exclude .venv .
 
   test:
     runs-on: ubuntu-latest
