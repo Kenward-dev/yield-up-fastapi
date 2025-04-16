@@ -12,7 +12,7 @@ This project is under active development. This README will be updated regularly 
 
 ## Features (Planned)
 
-- User authentication and authorization
+- Admin authentication and authorization
 - Beneficiary management
 - Donor management
 - Program and event coordination
