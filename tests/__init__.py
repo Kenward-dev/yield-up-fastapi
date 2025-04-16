@@ -1,1 +1,1 @@
-"""API core module containing the primary application logic."""
+"""Test suite for the API application."""
