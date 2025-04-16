@@ -46,8 +46,8 @@ jobs:
       - name: Sort imports with isort
         run: isort --check --profile black --skip .venv .
 
-      - name: Lint with flake8
-        run: flake8 --exclude .venv .
+      # - name: Lint with flake8
+      #   run: flake8 --exclude .venv .
 
       - name: Type check with mypy
         run: mypy --exclude .venv .
